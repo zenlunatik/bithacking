@@ -23,4 +23,10 @@ get bit: (1 << i) & n
 set bit: (1 << i) | n  
 clear bit: ~(1 << i) & n  
 clear MS bits: ((1 << i) -1) & n  
-clear LS bits:  (~((1 << i) -1)) & n  
+clear LS bits:  (~((1 << i) -1)) & n 
+
+Problem Set:  
+
+1. You are given 2 32 bit numbers M and N and 2 bit positions i and j (j>i and j-i = number of bits in M). We need to replace bits i through j in N with M.
+  
+
