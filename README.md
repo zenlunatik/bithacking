@@ -38,3 +38,5 @@ Problem Set:
 5. How many bits need to be changed to go from int M to int N?
 
 6. How many 1s are in a given int M?
+
+7. Swap even and odd bits in an int M.  
