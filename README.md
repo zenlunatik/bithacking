@@ -30,5 +30,7 @@ Problem Set:
 1. You are given 2 32 bit numbers M and N and 2 bit positions i and j (j>i and j-i = number of bits in M). We need to replace bits i through j in N with M.  
 
 2. Print the binary representation of a real number between 0 and 1. If the number is outside this range print error. If the binary representation is more than 32 bits, print error.  
+
+3. Find the next biggest number with the same number of 1 bits.
   
 
