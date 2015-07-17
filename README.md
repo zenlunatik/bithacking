@@ -31,6 +31,8 @@ Problem Set:
 
 2. Print the binary representation of a real number between 0 and 1. If the number is outside this range print error. If the binary representation is more than 32 bits, print error.  
 
-3. Find the next biggest number with the same number of 1 bits.
+3. Find the next biggest number with the same number of 1 bits.  
+
+4. What does this do: ((n & (n-1)) == 0) ? Solution: If this condition is true, n is a power of 2.
   
 
