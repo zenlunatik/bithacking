@@ -35,4 +35,6 @@ Problem Set:
 
 4. What does this do: ((n & (n-1)) == 0) ? Solution: If this condition is true, n is a power of 2.
   
+5. How many bits need to be changed to go from int M to int N?
 
+6. How many 1s are in a given int M?
