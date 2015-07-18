@@ -45,4 +45,6 @@ Problem Set:
 
 9. Check if a string has all unique characters.  
 
-10. Given a matrix with M rown and N columns. If an element is 0, set all elements in the row and column to 0.
+10. Given a matrix with M rown and N columns. If an element is 0, set all elements in the row and column to 0.  
+
+11. API to malloc and free memory aligned to a required power of 2 void* align_malloc(int bytes, int pow) void align_free(void*)  
