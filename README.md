@@ -42,3 +42,5 @@ Problem Set:
 7. Swap even and odd bits in an int M.  
 
 8. Create a bitmap API.
+
+9. Check if a string has all unique characters.  
