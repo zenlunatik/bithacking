@@ -44,3 +44,5 @@ Problem Set:
 8. Create a bitmap API.
 
 9. Check if a string has all unique characters.  
+
+10. Given a matrix with M rown and N columns. If an element is 0, set all elements in the row and column to 0.
