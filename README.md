@@ -40,3 +40,5 @@ Problem Set:
 6. How many 1s are in a given int M?
 
 7. Swap even and odd bits in an int M.  
+
+8. Create a bitmap API.
